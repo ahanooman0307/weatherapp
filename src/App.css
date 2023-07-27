@@ -3,8 +3,11 @@
   
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .app{
-  background-image: url(assets/images.jpg);
+  background-image: url(assets/pexels-felix-mittermeier-1269777.jpg);
+  background-size: cover;
 }
 
 
